@@ -35,4 +35,5 @@ frontend/.snap/
 tmp/
 r.json
 s.html
-config.bat
+.env
+.env.*
